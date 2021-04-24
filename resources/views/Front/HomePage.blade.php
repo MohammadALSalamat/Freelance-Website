@@ -33,8 +33,7 @@
                 <div class="col-lg-6 pt-5 pt-lg-0">
                     <h3 data-aos="fade-up">About Us</h3>
                     <p data-aos="fade-up" data-aos-delay="100">
-                        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Duis aute irure dolor in reprehenderit
-                    </p>
+                        We are a group of programmers who work as freelancers. We offer a number of services to clients                    </p>
                     <div class="row">
                         <div class="col-md-6" data-aos="fade-up" data-aos-delay="100">
                             <i class="bx bx-receipt"></i>
