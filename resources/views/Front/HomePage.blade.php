@@ -13,7 +13,7 @@
                 <a href="#about" class="btn-get-started scrollto">Get Started</a>
             </div>
             <div class="col-lg-6 order-1 order-lg-2 hero-img">
-                <img src="assets/img/hero-img.svg" class="img-fluid animated" alt="">
+                <img src="assets/svg/WEB-DESIGN-AND-BUILD.svg" class="img-fluid animated" alt="">
             </div>
         </div>
     </div>
