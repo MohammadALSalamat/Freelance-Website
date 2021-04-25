@@ -1,0 +1,16 @@
+-------------------- Auto-Git Log --------------------
+		Sun Apr 25 2021 12:22:46 GMT+0400 (Gulf Standard Time)
+------------------------------------------------------
+
+Modified files:
+
+
+Created files:
+* .autogit/logs/log-25-3-2021-11-52-22.txt
+* resources/views/Front/html-test.html
+
+
+Deleted files:
+
+
+Renamed files:
