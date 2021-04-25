@@ -13,7 +13,7 @@
                 <a href="#about" class="btn-get-started scrollto">Get Started</a>
             </div>
             <div class="col-lg-6 order-1 order-lg-2 hero-img">
-                <img src="assets/svg/WEB-DESIGN-AND-BUILD.svg" class="img-fluid animated" alt="">
+                <img src="assets/img/general/img-slider-01.png" class="img-fluid animated" alt="">
             </div>
         </div>
     </div>
@@ -28,7 +28,7 @@
 
             <div class="row justify-content-between">
                 <div class="col-lg-5 d-flex align-items-center justify-content-center about-img">
-                    <img src="assets/img/about-img.svg" class="img-fluid" alt="" data-aos="zoom-in">
+                    <img src="assets/img/general/img-isometric-02.png" class="img-fluid" alt="" data-aos="zoom-in">
                 </div>
                 <div class="col-lg-6 pt-5 pt-lg-0">
                     <h3 data-aos="fade-up">About Us</h3>
