@@ -1,0 +1,15 @@
+-------------------- Auto-Git Log --------------------
+		Sun Apr 25 2021 14:51:39 GMT+0400 (Gulf Standard Time)
+------------------------------------------------------
+
+Modified files:
+* public/assets/css/style.css
+
+
+Created files:
+
+
+Deleted files:
+
+
+Renamed files:

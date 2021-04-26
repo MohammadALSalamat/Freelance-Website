@@ -632,7 +632,7 @@ section {
 --------------------------------------------------------------*/
 
 .services .icon-box {
-    padding: 30px;
+    padding: 30px 5px;
     position: relative;
     overflow: hidden;
     margin: 0 0 40px 0;
@@ -647,6 +647,10 @@ section {
 .services .icon-box:hover {
     transform: translateY(-5px);
     border-color: #3446b2;
+}
+
+.services .icon-box p {
+    text-align: justify;
 }
 
 .services .icon i {
