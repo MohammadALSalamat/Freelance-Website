@@ -1,0 +1,17 @@
+-------------------- Auto-Git Log --------------------
+		Mon Apr 26 2021 10:33:57 GMT+0400 (Gulf Standard Time)
+------------------------------------------------------
+
+Modified files:
+* public/assets/css/style.css
+* resources/views/Front/HomePage.blade.php
+
+
+Created files:
+* .autogit/logs/log-25-3-2021-14-51-39.txt
+
+
+Deleted files:
+
+
+Renamed files:
