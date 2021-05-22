@@ -123,7 +123,7 @@
                 <div class="col-md-6 col-lg-4 d-flex align-items-stretch" data-aos="zoom-in" data-aos-delay="400">
                     <div class="icon-box">
                         <div class="icon"><img src="{{ asset('assets/img/icon/sql.png') }}" width="200px" height="100px"
-                                alt=""></div>
+                                alt="sql image"></div>
                         <h4 class="title"><a href="">Organize Database</a></h4>
                         <p class="description">At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis
                             praesentium voluptatum</p>
@@ -177,10 +177,10 @@
 
                 <div class="col-lg-4 col-md-6 portfolio-item filter-app">
                     <div class="portfolio-wrap">
-                        <img src="assets/img/portfolio/Admin-Laravel.png" width="100%" height="250px"
+                        <img src="{{ asset('assets/img/portfolio/Admin-Laravel.png') }}" width="100%" height="250px"
                             alt="Admin-Laravel">
                         <div class="portfolio-links">
-                            <a href="assets/img/portfolio/Admin-Laravel.png" data-gall="portfolioGallery"
+                            <a href="{{ asset('assets/img/portfolio/admin-laravel.png') }}" data-gall="portfolioGallery"
                                 class="venobox" title="Admin-Laravel"><i class="icofont-plus-circle"></i></a>
                             <a href="portfolio-details.html" title="More Details"><i class="icofont-link"></i></a>
                         </div>
