@@ -43,7 +43,7 @@
                 <div class="row justify-content-center">
                     <div class="col-lg-6">
                         <h4>Join Our Newsletter</h4>
-                        <p>Tamen quem nulla quae legam multos aute sint culpa legam noster magna</p>
+                        <p>be Updated With Us.</p>
                         <form action="" method="post">
                             <input type="email" name="email"><input type="submit" value="Subscribe">
                         </form>
@@ -57,11 +57,11 @@
                 <div class="row">
 
                     <div class="col-lg-3 col-md-6 footer-contact" data-aos="fade-up" data-aos-delay="100">
-                        <h3>Ninestars</h3>
+                        <h3>United Arab Emarties</h3>
                         <p>
-                            A108 Adam Street <br> New York, NY 535022<br> United States <br><br>
-                            <strong>Phone:</strong> +1 5589 55488 55<br>
-                            <strong>Email:</strong> info@example.com<br>
+                            Zaid First Street<br> Abu Dhabi,<br> United Arab Emarties <br><br>
+                            <strong>Phone:</strong> +971 567655814<br>
+                            <strong>Email:</strong> info@webuild.com<br>
                         </p>
                     </div>
 
@@ -81,15 +81,14 @@
                         <ul>
                             <li><i class="bx bx-chevron-right"></i> <a href="#">Web Design</a></li>
                             <li><i class="bx bx-chevron-right"></i> <a href="#">Web Development</a></li>
-                            <li><i class="bx bx-chevron-right"></i> <a href="#">Product Management</a></li>
-                            <li><i class="bx bx-chevron-right"></i> <a href="#">Marketing</a></li>
+                            <li><i class="bx bx-chevron-right"></i> <a href="#">SEO</a></li>
                             <li><i class="bx bx-chevron-right"></i> <a href="#">Graphic Design</a></li>
                         </ul>
                     </div>
 
                     <div class="col-lg-3 col-md-6 footer-links" data-aos="fade-up" data-aos-delay="400">
                         <h4>Our Social Networks</h4>
-                        <p>Cras fermentum odio eu feugiat lide par naso tierra videa magna derita valies</p>
+                        <p>Contact With Us on our social media platforms</p>
                         <div class="social-links mt-3">
                             <a href="#" class="twitter"><i class="bx bxl-twitter"></i></a>
                             <a href="#" class="facebook"><i class="bx bxl-facebook"></i></a>
