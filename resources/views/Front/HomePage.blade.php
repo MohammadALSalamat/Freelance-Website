@@ -50,7 +50,7 @@
                         <div class="col-md-6" data-aos="fade-up" data-aos-delay="200">
                             <i class="bx bx-cube-alt"></i>
                             <h4>With WeBuild,</h4>
-                            <p> you will get super easy website to use, highly flexible with a lot of responsive
+                            <p> you will get super easy website to work with highly flexible along with a lot of responsive
                                 features.</p>
                         </div>
                     </div>
@@ -59,9 +59,6 @@
 
         </div>
     </section>
-    <!-- End About Section -->
-
-    <!-- ======= Services Section ======= -->
     <section id="services" class="services section-bg">
         <div class="container">
 
@@ -71,7 +68,7 @@
             </div>
 
             <div class="row">
-                <div class="col-md-6 col-lg-3 d-flex align-items-stretch" data-aos="zoom-in" data-aos-delay="100">
+                <div class="col-md-6 col-lg-4 d-flex align-items-stretch" data-aos="zoom-in" data-aos-delay="100">
                     <div class="icon-box">
                         <div class="icon"><img src="{{ asset('assets/img/icon/SEO.png') }}" width="100px" height="100px"
                                 alt=""></div>
@@ -81,7 +78,7 @@
                     </div>
                 </div>
 
-                <div class="col-md-6 col-lg-3 d-flex align-items-stretch" data-aos="zoom-in" data-aos-delay="200">
+                <div class="col-md-6 col-lg-4 d-flex align-items-stretch" data-aos="zoom-in" data-aos-delay="200">
                     <div class="icon-box">
                         <div class="icon"><img src="{{ asset('assets/img/icon/BuildFromSc.png') }}" width="100px"
                                 height="100px" alt=""></div>
@@ -92,7 +89,7 @@
                     </div>
                 </div>
 
-                <div class="col-md-6 col-lg-3 d-flex align-items-stretch" data-aos="zoom-in" data-aos-delay="300">
+                <div class="col-md-6 col-lg-4 d-flex align-items-stretch" data-aos="zoom-in" data-aos-delay="300">
                     <div class="icon-box">
                         <div class="icon"><img src="{{ asset('assets/img/icon/WordPress1.png') }}" width="100px"
                                 height="100px" alt=""></div>
@@ -102,7 +99,7 @@
                     </div>
                 </div>
 
-                <div class="col-md-6 col-lg-3 d-flex align-items-stretch" data-aos="zoom-in" data-aos-delay="400">
+                <div class="col-md-6 col-lg-4 d-flex align-items-stretch" data-aos="zoom-in" data-aos-delay="400">
                     <div class="icon-box">
                         <div class="icon"><img src="{{ asset('assets/img/icon/maintain.png') }}" width="100px"
                                 height="100px" alt=""></div>
@@ -113,7 +110,7 @@
                             typography palettes and branding.</p>
                     </div>
                 </div>
-                <div class="col-md-6 col-lg-3 d-flex align-items-stretch" data-aos="zoom-in" data-aos-delay="400">
+                <div class="col-md-6 col-lg-4 d-flex align-items-stretch" data-aos="zoom-in" data-aos-delay="400">
                     <div class="icon-box">
                         <div class="icon"><img src="{{ asset('assets/img/icon/Laravel.png') }}" width="100px"
                                 height="100px" alt=""></div>
@@ -123,30 +120,13 @@
                             are in the right place hit us up to get whatever you want</p>
                     </div>
                 </div>
-                <div class="col-md-6 col-lg-3 d-flex align-items-stretch" data-aos="zoom-in" data-aos-delay="400">
+                <div class="col-md-6 col-lg-4 d-flex align-items-stretch" data-aos="zoom-in" data-aos-delay="400">
                     <div class="icon-box">
                         <div class="icon"><img src="{{ asset('assets/img/icon/sql.png') }}" width="200px" height="100px"
                                 alt=""></div>
                         <h4 class="title"><a href="">Organize Database</a></h4>
                         <p class="description">At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis
                             praesentium voluptatum</p>
-                    </div>
-                </div>
-                <div class="col-md-6 col-lg-3 d-flex align-items-stretch" data-aos="zoom-in" data-aos-delay="400">
-                    <div class="icon-box">
-                        <div class="icon"><img src="{{ asset('assets/img/icon/debugging.png') }}" width="100px"
-                                height="100px" alt=""></div>
-                        <h4 class="title"><a href="">Debugging codes</a></h4>
-                        <p class="description">At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis
-                            praesentium voluptatum</p>
-                    </div>
-                </div>
-                <div class="col-md-6 col-lg-3 d-flex align-items-stretch" data-aos="zoom-in" data-aos-delay="400">
-                    <div class="icon-box">
-                        <div class="icon"><img src="{{ asset('assets/img/icon/photoshop.png') }}" width="100px"
-                                height="100px" alt=""></div>
-                        <h4 class="title"><a href="">Desgin your site</a></h4>
-                        <p class="description">While a lot of design trends come and go almost as fast as you start to recognize them, the ones that stick around often work well with other time-tested techniques. That’s what stands out the most about this trio of modern styles. </p>
                     </div>
                 </div>
 
@@ -421,3 +401,4 @@
 
 </main>
 @endsection
+
