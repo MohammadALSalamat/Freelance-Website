@@ -1,5 +1,5 @@
  <!-- ======= Footer ======= -->
-
+<div class="footer-down">
     <div class="footer-newsletter" data-aos="fade-up">
         <div class="container">
             <div class="row justify-content-center">
@@ -64,7 +64,8 @@
         </div>
     </div>
 
-    <div class="container py-4 footer">
+    <div class="footer-select">
+    <div class="container py-4 ">
         <div class="copyright">
             &copy; Copyright <strong><span>Mohammad</span></strong>. All Rights Reserved
         </div>
@@ -72,4 +73,6 @@
             Designed by <a href="#">Mohammad Al Salamat</a>
         </div>
     </div>
+</div>
+</div>
 <!-- End Footer -->

@@ -75,6 +75,7 @@
                         <h4 class="title"><a href="">Increase SEO</a></h4>
                         <p class="description">Your site will be easily found across all search engines. Free change and
                             transform every aspect of design using preview for monitoring your changes.</p>
+                            <button class="btn btn-primary mt-3">Book The Service <i class="fa fa-arrow-right ml-2"></i></button>
                     </div>
                 </div>
 
@@ -86,6 +87,7 @@
                         <p class="description">Looking for a website refresh and don’t know where to start? Some of the
                             trendiest elements in web design right now are fun aesthetically and pretty easy to use. you
                             are in the right place hit us up to get whatever you want</p>
+                            <button class="btn btn-primary mt-3">Book The Service <i class="fa fa-arrow-right ml-2"></i></button>
                     </div>
                 </div>
 
@@ -96,6 +98,7 @@
                         <h4 class="title"><a href="">WordPress Websites</a></h4>
                         <p class="description">Building a beautiful website for your business begins with choosing a
                             theme — a design that controls page layout, widget areas, and default style.</p>
+                            <button class="btn btn-primary mt-3">Book The Service <i class="fa fa-arrow-right ml-2"></i></button>
                     </div>
                 </div>
 
@@ -108,6 +111,7 @@
                             create a modern vibe that can help drive visitors to your site. And what’s particularly nice
                             about this tri of trends is that you can use them with existing elements, color and
                             typography palettes and branding.</p>
+                            <button class="btn btn-primary mt-3">Book The Service <i class="fa fa-arrow-right ml-2"></i></button>
                     </div>
                 </div>
                 <div class="col-md-6 col-lg-4 d-flex align-items-stretch" data-aos="zoom-in" data-aos-delay="400">
@@ -118,6 +122,7 @@
                         <p class="description">Looking for a website refresh and don’t know where to start? Some of the
                             trendiest elements in web design right now are fun aesthetically and pretty easy to use. you
                             are in the right place hit us up to get whatever you want</p>
+                            <button class="btn btn-primary mt-3">Book The Service <i class="fa fa-arrow-right ml-2"></i></button>
                     </div>
                 </div>
                 <div class="col-md-6 col-lg-4 d-flex align-items-stretch" data-aos="zoom-in" data-aos-delay="400">
@@ -127,6 +132,7 @@
                         <h4 class="title"><a href="">Organize Database</a></h4>
                         <p class="description">At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis
                             praesentium voluptatum</p>
+                            <button class="btn btn-primary mt-3">Book The Service <i class="fa fa-arrow-right ml-2"></i></button>
                     </div>
                 </div>
 
