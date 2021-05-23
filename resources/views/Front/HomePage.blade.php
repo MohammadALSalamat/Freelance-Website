@@ -68,7 +68,7 @@
             </div>
 
             <div class="row">
-                <div class="col-md-6 col-lg-4 d-flex align-items-stretch" data-aos="zoom-in" data-aos-delay="100">
+                <div class="services-box col-md-6 col-lg-4 d-flex align-items-stretch" data-aos="zoom-in" data-aos-delay="100">
                     <div class="icon-box">
                         <div class="icon"><img src="{{ asset('assets/img/icon/SEO.png') }}" width="100px" height="100px"
                                 alt=""></div>
@@ -79,7 +79,7 @@
                     </div>
                 </div>
 
-                <div class="col-md-6 col-lg-4 d-flex align-items-stretch" data-aos="zoom-in" data-aos-delay="200">
+                <div class="services-box col-md-6 col-lg-4 d-flex align-items-stretch" data-aos="zoom-in" data-aos-delay="200">
                     <div class="icon-box">
                         <div class="icon"><img src="{{ asset('assets/img/icon/BuildFromSc.png') }}" width="100px"
                                 height="100px" alt=""></div>
@@ -91,7 +91,7 @@
                     </div>
                 </div>
 
-                <div class="col-md-6 col-lg-4 d-flex align-items-stretch" data-aos="zoom-in" data-aos-delay="300">
+                <div class="services-box col-md-6 col-lg-4 d-flex align-items-stretch" data-aos="zoom-in" data-aos-delay="300">
                     <div class="icon-box">
                         <div class="icon"><img src="{{ asset('assets/img/icon/WordPress1.png') }}" width="100px"
                                 height="100px" alt=""></div>
@@ -102,7 +102,7 @@
                     </div>
                 </div>
 
-                <div class="col-md-6 col-lg-4 d-flex align-items-stretch" data-aos="zoom-in" data-aos-delay="400">
+                <div class=" services-box col-md-6 col-lg-4 d-flex align-items-stretch" data-aos="zoom-in" data-aos-delay="400">
                     <div class="icon-box">
                         <div class="icon"><img src="{{ asset('assets/img/icon/maintain.png') }}" width="100px"
                                 height="100px" alt=""></div>
@@ -114,7 +114,7 @@
                             <button class="btn btn-primary mt-3">Book The Service <i class="fa fa-arrow-right ml-2"></i></button>
                     </div>
                 </div>
-                <div class="col-md-6 col-lg-4 d-flex align-items-stretch" data-aos="zoom-in" data-aos-delay="400">
+                <div class="services-box col-md-6 col-lg-4 d-flex align-items-stretch" data-aos="zoom-in" data-aos-delay="400">
                     <div class="icon-box">
                         <div class="icon"><img src="{{ asset('assets/img/icon/Laravel.png') }}" width="100px"
                                 height="100px" alt=""></div>
@@ -125,7 +125,7 @@
                             <button class="btn btn-primary mt-3">Book The Service <i class="fa fa-arrow-right ml-2"></i></button>
                     </div>
                 </div>
-                <div class="col-md-6 col-lg-4 d-flex align-items-stretch" data-aos="zoom-in" data-aos-delay="400">
+                <div class=" services-box col-md-6 col-lg-4 d-flex align-items-stretch" data-aos="zoom-in" data-aos-delay="400">
                     <div class="icon-box">
                         <div class="icon"><img src="{{ asset('assets/img/icon/sql.png') }}" width="200px" height="100px"
                                 alt="sql image"></div>

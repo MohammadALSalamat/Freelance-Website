@@ -1,0 +1,16 @@
+-------------------- Auto-Git Log --------------------
+		Sun May 23 2021 10:38:27 GMT+0400 (Gulf Standard Time)
+------------------------------------------------------
+
+Modified files:
+* public/assets/css/style.css
+
+
+Created files:
+* .autogit/logs/log-23-4-2021-10-21-24.txt
+
+
+Deleted files:
+
+
+Renamed files:
