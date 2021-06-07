@@ -154,7 +154,7 @@
 
             <div class="row" data-aos="fade-up" data-aos-delay="100">
                 <div class="col-lg-12">
-                    <ul id="portfolio-flters" style="color: #fff">
+                    <ul id="portfolio-flters" style="color: #000">
                         <li data-filter="*" class="filter-active">All</li>
                         <li data-filter=".filter-app">Laravel</li>
                         <li data-filter=".filter-card">WordPress</li>
@@ -407,4 +407,3 @@
 
 </main>
 @endsection
-
