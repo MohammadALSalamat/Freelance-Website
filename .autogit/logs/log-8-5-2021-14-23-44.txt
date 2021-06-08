@@ -1,0 +1,15 @@
+-------------------- Auto-Git Log --------------------
+		Tue Jun 08 2021 14:23:44 GMT+0400 (Gulf Standard Time)
+------------------------------------------------------
+
+Modified files:
+
+
+Created files:
+* .autogit/logs/log-8-5-2021-14-6-51.txt
+
+
+Deleted files:
+
+
+Renamed files:
