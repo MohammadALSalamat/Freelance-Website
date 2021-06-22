@@ -1,0 +1,16 @@
+-------------------- Auto-Git Log --------------------
+		Tue Jun 22 2021 16:34:34 GMT+0400 (Gulf Standard Time)
+------------------------------------------------------
+
+Modified files:
+* resources/views/Front/HomePage.blade.php
+
+
+Created files:
+* .autogit/logs/log-16-5-2021-17-53-4.txt
+
+
+Deleted files:
+
+
+Renamed files:
